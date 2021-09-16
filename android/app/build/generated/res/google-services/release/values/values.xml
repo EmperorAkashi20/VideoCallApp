@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">669536897127-3ikpg0njpdettuc8s116trfsu4fj84lf.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">669536897127</string>
+    <string name="google_api_key" translatable="false">AIzaSyB47Nc6YW42MYWEsiL4CS0zarJFKrVeWEk</string>
+    <string name="google_app_id" translatable="false">1:669536897127:android:62a83906adbec29e202cc2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB47Nc6YW42MYWEsiL4CS0zarJFKrVeWEk</string>
+    <string name="google_storage_bucket" translatable="false">videocallapp-fae0f.appspot.com</string>
+    <string name="project_id" translatable="false">videocallapp-fae0f</string>
+</resources>
